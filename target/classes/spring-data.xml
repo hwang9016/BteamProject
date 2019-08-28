@@ -17,7 +17,7 @@
 		<property name="driverClass" value="oracle.jdbc.driver.OracleDriver"/>
 		<property name="jdbcUrl"
 			value="jdbc:oracle:thin:@localhost:1521:orcl"/>
-		<property name="user" value="c##team"/>
+		<property name="user" value="c##a"/>
 		<property name="password" value="1234"/>
 		<property name="maxPoolSize" value="100"/>
 		<property name="maxIdleTime" value="600" />
